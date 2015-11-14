@@ -1,3 +1,12 @@
+#include <cstddef>//include NULL
+#include <iostream>
+
+#include "Tree.hpp"
+#include "Node.hpp"
+
+using namespace std;
+using namespace spacePu;
+
 int main()
 {
 	//int count = 0;
